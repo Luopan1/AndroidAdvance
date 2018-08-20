@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
- ####快捷键
+####快捷键
     1.快速生成无状态的控件：stless
     2.快速生成有状态的控件：stful
 ##### StatelessWidget
